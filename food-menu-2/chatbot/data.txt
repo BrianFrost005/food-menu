@@ -1,0 +1,84 @@
+Below is a list of dishes served by Restaurant Westy, every dish entery has
+dish type, title, category, price, description and ingredients.
+
+Type: Dish
+Title: Classic Chicken Chop
+Category: Chicken
+Price: RM 88.88
+Description: 
+Our restaurant's signature Chicken Chop. It offers 88 bites of flavour rich chicken.
+
+Ingredients: 
+Boneless chicken breast marinated in a mixture of spices, herbs, and sauces.
+Type: Dish
+Title: Blackpepper Chicken
+Category: Chicken
+Price: RM 66.66
+Description: 
+Our restaurant's Blackpepper Chicken Chop. It smoking and aromatic pepper will surely leave you thumbs up like 66.
+Ingredients:
+boneless chicken breast marinated in a mixture of spices, herbs, and blackpepper sauces.
+
+Type: Dish
+Title: Chicken Gordon Bleu
+Category: Chicken
+Price: RM 99.99
+Description: 
+Our restaurant's Chicken Gordon Bleu. The combination of ham and cheese filled fried chicken breast will leave you craving for 99 days.
+Ingredients:
+boneless fried chicken breast stuffed with ham slices and cheese.
+
+Type: Dish
+Title: Classic Steak
+Category: Steak
+Price: RM 69.69
+Description: 
+A juicy, tender texture, rich and savory flavor steak thats as nice as 69.
+Ingredients:
+A prime cut of ribeye which is then seasoned with a blend of spices, including salt, pepper, and herbs.
+
+Type: Dish
+Title: Mushroom Steak
+Category: Steak
+Price: RM 10.10
+Description: 
+A tender, texture rich steak grilled with 10 mushrooms.
+Ingredients:
+A prime cut of ribeye which is then seasoned with a blend of spices, including salt, pepper, herbs and mushrooms.
+
+Type: Dish
+Title: Classic Fish n Chip
+Category: Fish
+Price: RM 77.77
+Description: 
+A deep-fried fish fillets along with tartar sauce that keeps you healthy 7 days a week.
+Ingredients:
+cod coated in a flavorful batter made from a mixture of flour, baking powder, salt, and carbonated water.
+
+Type: Dish
+Title: Tomato Fish n Chip
+Category: Fish
+Price: RM 22.22
+Description: 
+A deep-fried fish fillets covered with tomato gravy that make the perfect match of 2.
+Ingredients:
+cod coated in a flavorful batter made from a mixture of flour, baking powder, salt, and carbonated water covered with tomato gravy.
+
+Type: Dish
+Title: Classic Lamb Chop
+Category: Fish
+Price: RM 44.44
+Description: 
+A dish that showcases the tender and flavorful meat of young sheep serve in 4 slices.
+Ingredients:
+Lamb shoulders marinated in a mixture of aromatic rosemary, thyme, garlic, salt, and black pepper.
+
+Type: Dish
+Title: Mushroom Lamb Chop
+Category: Lamb
+Price: RM 33.33
+Description: 
+The tender and flavorful meat of young sheep along with blackpepper and mushroom to mke the trifecta 3 combo.
+Ingredients:
+Lamb shoulders marinated in a mixture of aromatic rosemary, thyme, garlic, salt, and black pepper and mushroom gravy.
+
